@@ -5,15 +5,15 @@
 var cvApi = require("./cv-api.js");
 
 // Enter your Crowd Valley API Key and Secret
-var apiKey = 'your-api-key';
-var apiSecret = 'your-api-secret'
+var apiKey = 'fundingtree-001';
+var apiSecret = 'JPkciQ1lk9'
 
 // Enter your Username and Password
-var username = 'yourname@youremail.com';
-var password = 'yourpassword';
+var username = 'rayaan@fundingtree.com';
+var password = '18@Gleneagles';
 
 // Enter your Network Name
-var network = 'yournetworkname';
+var network = 'fundingtree';
 
 // Enter the API endpoint. This should be "https://sandbox.crowdvalley.com/v1" 
 // unless you have a paid account with Crowd Valley and you are using the live API
